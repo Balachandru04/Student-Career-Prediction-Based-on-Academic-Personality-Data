@@ -1,0 +1,16 @@
+# Core libraries
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# GUI or Web Framework (uncomment based on what you use)
+pyqt5
+
+# Model persistence
+joblib
+
+mysql-connector-python
