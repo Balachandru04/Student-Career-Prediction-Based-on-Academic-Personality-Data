@@ -1,0 +1,516 @@
+{
+  "Data Science": {
+    "description": "Data Science is a multidisciplinary field that combines statistics, data analysis, machine learning, and domain knowledge to extract meaningful insights and support decision-making from structured and unstructured data.",
+    "roadmap": [
+      "1. Programming Fundamentals:\n   - Learn Python (variables, control flow, functions)\n   - Explore R (optional but good for statistical analysis)",
+      "2. Math for Data Science:\n   - Master Statistics (mean, variance, hypothesis testing)\n   - Learn Probability, Linear Algebra, Calculus basics",
+      "3. Data Handling:\n   - Learn Pandas & NumPy for data manipulation\n   - Use Matplotlib & Seaborn for visualization",
+      "4. Databases:\n   - Learn SQL for data querying\n   - Practice joins, aggregation, subqueries",
+      "5. Machine Learning:\n   - Supervised: Regression, Classification\n   - Unsupervised: Clustering, PCA\n   - Use Scikit-learn for model building",
+      "6. Advanced Topics:\n   - Feature Engineering, Hyperparameter Tuning\n   - Model Evaluation Metrics (ROC, F1-Score, etc.)",
+      "7. Real-World Projects:\n   - Analyze Titanic dataset\n   - Sales prediction, Fraud detection, etc.",
+      "8. Portfolio & Deployment:\n   - Use GitHub for code\n   - Build dashboards (Tableau/Power BI)\n   - Deploy models using Flask/Streamlit"
+    ],
+    "skills": [
+      "Python",
+      "R",
+      "SQL",
+      "Statistics",
+      "Machine Learning",
+      "Data Cleaning",
+      "Data Visualization",
+      "Storytelling",
+      "Model Deployment"
+    ],
+    "tools": [
+      "Jupyter Notebook",
+      "Google Colab",
+      "Pandas",
+      "NumPy",
+      "Scikit-learn",
+      "Matplotlib",
+      "Seaborn",
+      "Tableau",
+      "Power BI",
+      "Streamlit"
+    ],
+    "resources": [
+    "<a href='https://www.kaggle.com/learn' target='_blank'>Kaggle: Python, Pandas, ML Tracks</a>",
+    "<a href='https://www.coursera.org/professional-certificates/ibm-data-science' target='_blank'>Coursera: IBM Data Science Professional Certificate</a>",
+    "<a href='https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/' target='_blank'>Udemy: Python for Data Science and ML Bootcamp by Jose Portilla</a>",
+    "<a href='https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig' target='_blank'>YouTube: Krish Naik</a>",
+    "<a href='https://www.youtube.com/c/codebasics' target='_blank'>YouTube: Codebasics</a>",
+    "<a href='https://www.youtube.com/user/joshstarmer' target='_blank'>YouTube: StatQuest</a>",
+    "<a href='https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/' target='_blank'>Book: Hands-On ML with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron</a>"
+]
+
+  },
+  "Artificial Intelligence": {
+    "description": "Artificial Intelligence (AI) is the simulation of human intelligence processes by machines. It includes problem-solving, learning, planning, and perception, and powers applications from chatbots to autonomous vehicles.",
+    "roadmap": [
+      "1. Prerequisites:\n   - Master Python\n   - Basics of Linear Algebra, Probability, and Calculus",
+      "2. Classical AI:\n   - Search Algorithms (DFS, BFS, A*)\n   - Logic-based AI, Expert Systems",
+      "3. Machine Learning:\n   - Supervised, Unsupervised, and Reinforcement Learning\n   - Understand regression, classification, clustering, SVM, decision trees",
+      "4. Deep Learning:\n   - Neural Networks: CNNs, RNNs, Autoencoders\n   - Use TensorFlow and PyTorch for model building",
+      "5. AI Domains:\n   - NLP: Tokenization, LSTM, Transformers (BERT, GPT)\n   - Computer Vision: Image classification, Object detection",
+      "6. Tools and Frameworks:\n   - TensorFlow, Keras, PyTorch, OpenCV, spaCy, HuggingFace Transformers",
+      "7. Projects:\n   - Chatbot using NLP\n   - Face detection system\n   - Image captioning\n   - AI music generation",
+      "8. Ethics and Trends:\n   - Understand AI Ethics, Fairness, Bias\n   - Explore Generative AI (GANs, LLMs)"
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing",
+      "Computer Vision",
+      "AI Ethics",
+      "Data Structures & Algorithms"
+    ],
+    "tools": [
+      "TensorFlow",
+      "Keras",
+      "PyTorch",
+      "OpenCV",
+      "NLTK",
+      "spaCy",
+      "Transformers (HuggingFace)",
+      "Google Colab",
+      "Jupyter",
+      "Weights & Biases"
+    ],
+    "resources":[
+    "<a href='https://www.coursera.org/specializations/deep-learning' target='_blank'>Coursera: DeepLearning.AI Specialization by Andrew Ng</a>",
+    "<a href='https://course.fast.ai/' target='_blank'>Fast.ai Practical Deep Learning</a>",
+    "<a href='https://www.youtube.com/c/codebasics' target='_blank'>YouTube: Codebasics</a>",
+    "<a href='https://www.youtube.com/c/KárolyZsolnai' target='_blank'>YouTube: Two Minute Papers</a>",
+    "<a href='https://www.youtube.com/c/YannicKilcher' target='_blank'>YouTube: Yannic Kilcher</a>",
+    "<a href='https://www.deeplearningbook.org/' target='_blank'>Book: Deep Learning by Ian Goodfellow</a>",
+    "<a href='https://huggingface.co/learn' target='_blank'>HuggingFace Tutorials: NLP Transformers and Fine-Tuning</a>"
+]
+
+  },
+
+"Web Development": {
+  "description": "Web Development is the process of building and maintaining websites and web applications that run on the internet. It involves frontend (user interface), backend (server logic), and full-stack (both) technologies.",
+  "roadmap": [
+    "1. Basics of Web:\n   - Learn how the internet and browsers work\n   - Understand HTTP/HTTPS, DNS, Hosting",
+    "2. Frontend Development:\n   - HTML: Structure of web pages\n   - CSS: Styling (Flexbox, Grid, Responsive design)\n   - JavaScript: Interactivity (DOM, Events, ES6+)",
+    "3. Frontend Frameworks:\n   - Learn React.js (or alternatives like Vue.js, Angular)\n   - State management and routing",
+    "4. Backend Development:\n   - Learn Node.js with Express\n   - Databases: SQL (MySQL, PostgreSQL) or NoSQL (MongoDB)",
+    "5. Authentication & Security:\n   - Login/signup, JWT tokens, OAuth\n   - HTTPS, CORS, XSS, CSRF protection",
+    "6. APIs and Data Handling:\n   - RESTful APIs\n   - JSON, AJAX, Axios, Fetch",
+    "7. DevOps and Deployment:\n   - Use Git and GitHub\n   - Host on platforms like Vercel, Netlify, or Heroku",
+    "8. Real-world Projects:\n   - Build portfolio website, blog, task manager, e-commerce site\n   - Focus on responsiveness and performance"
+  ],
+  "skills": [
+    "HTML5", "CSS3", "JavaScript", "Responsive Design", "React.js", "Node.js",
+    "API Integration", "Version Control", "Web Security", "Debugging"
+  ],
+  "tools": [
+    "VS Code", "Git & GitHub", "Chrome DevTools", "Figma (for UI)", "Postman",
+    "Netlify", "Vercel", "MongoDB Atlas", "NPM/Yarn", "Bootstrap", "Tailwind CSS"
+  ],
+  "resources":[
+    "<a href='https://www.freecodecamp.org/learn/' target='_blank'>freeCodeCamp: Responsive Web Design & JS Certification</a>",
+    "<a href='https://developer.mozilla.org/' target='_blank'>MDN Web Docs: HTML, CSS, JS</a>",
+    "<a href='https://www.youtube.com/c/WebDevSimplified' target='_blank'>YouTube: Web Dev Simplified</a>",
+    "<a href='https://www.youtube.com/c/Codevolution' target='_blank'>YouTube: Codevolution</a>",
+    "<a href='https://www.youtube.com/c/TraversyMedia' target='_blank'>YouTube: Traversy Media</a>",
+    "<a href='https://www.coursera.org/professional-certificates/meta-front-end-developer' target='_blank'>Coursera: Meta Front-End Developer</a>",
+    "<a href='https://www.frontendmentor.io/' target='_blank'>Frontend Mentor</a>",
+    "<a href='https://devchallenges.io/' target='_blank'>DevChallenges</a>"
+]
+
+
+
+},
+"Full Stack Developer": {
+  "description": "A Full Stack Developer is a software developer who works on both the frontend (client-side) and backend (server-side) of web applications. They are capable of building a complete web application from the ground up.",
+  "roadmap": [
+    "1. Internet Fundamentals:\n   - Understand how the web works (Client-Server Model, HTTP, DNS)",
+    "2. Frontend Development:\n   - Learn HTML, CSS, and JavaScript\n   - Master frontend frameworks (React.js, Angular, or Vue.js)\n   - Learn UI/UX basics, responsive design, and accessibility",
+    "3. Backend Development:\n   - Learn a backend language like Node.js, Python (Django/Flask), or PHP\n   - RESTful APIs and MVC architecture\n   - Authentication and authorization",
+    "4. Databases:\n   - Learn SQL (MySQL, PostgreSQL) and NoSQL (MongoDB)\n   - Practice schema design, indexing, and querying",
+    "5. Version Control:\n   - Use Git for tracking changes\n   - Collaborate using GitHub/GitLab",
+    "6. DevOps and Deployment:\n   - Learn CI/CD basics, Docker, and hosting services (Heroku, Netlify, AWS, Vercel)\n   - Use NGINX/Apache for server configuration",
+    "7. Testing and Debugging:\n   - Unit Testing, Integration Testing (Jest, Mocha, Postman)\n   - Debugging tools in browsers and IDEs",
+    "8. Project Building:\n   - Build scalable applications: Chat app, Blog, E-commerce site, Admin dashboards\n   - Follow MVC and modular coding practices"
+  ],
+  "skills": [
+    "HTML5", "CSS3", "JavaScript", "React.js or Vue.js", "Node.js or Django",
+    "MongoDB or MySQL", "REST API", "Git", "Docker", "CI/CD", "Authentication"
+  ],
+  "tools": [
+    "VS Code", "Git & GitHub", "Postman", "MongoDB Compass", "Docker", 
+    "Heroku", "Vercel", "Nginx", "Netlify", "Figma", "Jest", "Express.js"
+  ],
+ "resources": [
+    "<a href='https://www.theodinproject.com/' target='_blank'>The Odin Project (Full Stack Curriculum)</a>",
+    "<a href='https://www.freecodecamp.org/learn/' target='_blank'>freeCodeCamp: Full Stack Developer Path</a>",
+    "<a href='https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer' target='_blank'>Coursera: IBM Full Stack Cloud Developer</a>",
+    "<a href='https://www.coursera.org/professional-certificates/meta-back-end-developer' target='_blank'>Coursera: Meta Back-End Developer</a>",
+    "<a href='https://www.youtube.com/c/TraversyMedia' target='_blank'>YouTube: Traversy Media</a>",
+    "<a href='https://www.youtube.com/c/WebDevSimplified' target='_blank'>YouTube: Web Dev Simplified</a>",
+    "<a href='https://www.youtube.com/c/Academind' target='_blank'>YouTube: Academind</a>",
+    "<a href='https://eloquentjavascript.net/' target='_blank'>Book: Eloquent JavaScript</a>",
+    "<a href='https://github.com/getify/You-Dont-Know-JS' target='_blank'>Book: You Don’t Know JS series</a>"
+]
+
+
+
+},
+"Machine Learning": {
+  "description": "Machine Learning (ML) is a subset of Artificial Intelligence that enables systems to learn from data and improve their performance over time without being explicitly programmed. It's widely used in recommendation systems, fraud detection, image recognition, and more.",
+  "roadmap": [
+    "1. Prerequisites:\n   - Master Python programming\n   - Learn Linear Algebra, Probability, and Statistics",
+    "2. Understand ML Concepts:\n   - Supervised vs Unsupervised Learning\n   - Classification vs Regression\n   - Overfitting and Underfitting",
+    "3. Data Preprocessing:\n   - Cleaning data, handling missing values, encoding\n   - Feature scaling, feature selection, and transformation",
+    "4. ML Algorithms:\n   - Linear & Logistic Regression, Decision Trees, SVM\n   - KNN, Naive Bayes, K-Means, PCA",
+    "5. Model Evaluation:\n   - Metrics: Accuracy, Precision, Recall, F1-Score, ROC AUC\n   - Cross-validation, confusion matrix, hyperparameter tuning",
+    "6. Libraries & Tools:\n   - Use Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn\n   - Explore ML pipelines and workflows",
+    "7. Hands-on Projects:\n   - Spam Detection, House Price Prediction, Loan Default Prediction\n   - Classification and clustering use cases",
+    "8. Advanced Topics:\n   - Ensemble Methods (Random Forest, XGBoost)\n   - Model deployment using Flask or Streamlit"
+  ],
+  "skills": [
+    "Python", "Statistics", "Linear Algebra", "Data Cleaning",
+    "Model Evaluation", "Feature Engineering", "Model Deployment"
+  ],
+  "tools": [
+    "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn",
+    "Jupyter Notebook", "Google Colab", "Flask", "Streamlit", "XGBoost"
+  ],
+ "resources":[
+    "<a href='https://www.coursera.org/learn/machine-learning' target='_blank'>Coursera: Machine Learning by Andrew Ng (Stanford)</a>",
+    "<a href='https://developers.google.com/machine-learning/crash-course' target='_blank'>Google ML Crash Course</a>",
+    "<a href='https://www.kaggle.com/' target='_blank'>Kaggle: ML Competitions & Datasets</a>",
+    "<a href='https://www.youtube.com/user/joshstarmer' target='_blank'>YouTube: StatQuest</a>",
+    "<a href='https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig' target='_blank'>YouTube: Krish Naik</a>",
+    "<a href='https://www.youtube.com/c/sentdex' target='_blank'>YouTube: Sentdex</a>",
+    "<a href='https://www.oreilly.com/library/view/python-machine-learning/9781783555130/' target='_blank'>Book: Python Machine Learning by Sebastian Raschka</a>"
+]
+
+
+},
+"Data Analyst": {
+  "description": "A Data Analyst collects, processes, and analyzes data to help organizations make informed business decisions. They focus on interpreting trends, identifying insights, and presenting findings in a clear and actionable way.",
+  "roadmap": [
+    "1. Foundation Skills:\n   - Excel/Google Sheets for data manipulation\n   - SQL for querying structured data from databases",
+    "2. Programming:\n   - Learn Python (Pandas, NumPy) or R for data analysis\n   - Understand data types, loops, functions, and libraries",
+    "3. Statistics & Math:\n   - Descriptive stats (mean, median, mode)\n   - Inferential stats (confidence intervals, hypothesis testing)",
+    "4. Data Visualization:\n   - Use Matplotlib, Seaborn in Python\n   - Master BI tools like Tableau, Power BI",
+    "5. Data Cleaning:\n   - Handle missing data, duplicates, outliers\n   - Use Pandas and regex for preprocessing",
+    "6. Real-World Projects:\n   - Sales dashboard\n   - Customer churn analysis\n   - Survey or e-commerce data exploration",
+    "7. Business Acumen:\n   - Understand KPIs, business logic, stakeholder needs\n   - Convert technical results into actionable insights",
+    "8. Resume & Portfolio:\n   - Document case studies on GitHub\n   - Create interactive dashboards\n   - Publish analysis on blogs or LinkedIn"
+  ],
+  "skills": [
+    "SQL", "Excel", "Python", "Statistics", "Data Cleaning", 
+    "Data Visualization", "Dashboarding", "Critical Thinking", "Communication"
+  ],
+  "tools": [
+    "Pandas", "NumPy", "Matplotlib", "Seaborn", "Power BI",
+    "Tableau", "Excel", "Google Data Studio", "Jupyter", "SQL (MySQL, PostgreSQL)"
+  ],
+ "resources": [
+    "<a href='https://www.kaggle.com/competitions?search=data+analysis' target='_blank'>Kaggle: Data Analysis Challenges</a>",
+    "<a href='https://www.coursera.org/professional-certificates/google-data-analytics' target='_blank'>Coursera: Google Data Analytics Professional Certificate</a>",
+    "<a href='https://www.udemy.com/course/the-data-analyst-course-complete-data-analyst-bootcamp/' target='_blank'>Udemy: The Data Analyst Course by 365 Careers</a>",
+    "<a href='https://www.youtube.com/c/AlexTheAnalyst' target='_blank'>YouTube: Alex The Analyst</a>",
+    "<a href='https://www.youtube.com/c/LukeBarousse' target='_blank'>YouTube: Luke Barousse</a>",
+    "<a href='https://www.storytellingwithdata.com/books' target='_blank'>Book: Storytelling with Data by Cole Nussbaumer Knaflic</a>"
+]
+
+
+},
+"Cyber Security": {
+  "description": "Cyber Security is the practice of protecting systems, networks, and data from digital attacks. It involves threat prevention, detection, response, and recovery to ensure confidentiality, integrity, and availability of information.",
+  "roadmap": [
+    "1. Fundamentals:\n   - Understand Networking (TCP/IP, DNS, OSI model)\n   - Learn OS basics (Linux, Windows)\n   - Study how the internet works",
+    "2. Cyber Security Basics:\n   - Learn about CIA Triad (Confidentiality, Integrity, Availability)\n   - Understand types of threats: malware, phishing, DDoS, etc.",
+    "3. Tools and Platforms:\n   - Use Wireshark, Nmap for network analysis\n   - Try Metasploit, Burp Suite for penetration testing",
+    "4. Scripting and Automation:\n   - Learn Python or Bash scripting\n   - Automate scanning, alerting, log monitoring",
+    "5. Specialized Domains:\n   - Network Security, Application Security\n   - Cloud Security, Identity & Access Management (IAM)",
+    "6. Certifications:\n   - CompTIA Security+, CEH (Certified Ethical Hacker)\n   - CISSP, OSCP (for advanced roles)",
+    "7. Projects and Labs:\n   - Setup home lab using VirtualBox and Kali Linux\n   - Practice on TryHackMe, Hack The Box, CyberSecLabs",
+    "8. Incident Response & SIEM:\n   - Learn about threat hunting and SOC operations\n   - Use Splunk, ELK Stack for log analysis"
+  ],
+  "skills": [
+    "Networking", "Linux", "Threat Analysis", "Penetration Testing", "Incident Response",
+    "Scripting", "Firewalls", "Cryptography", "Cloud Security", "Risk Management"
+  ],
+  "tools": [
+    "Wireshark", "Nmap", "Kali Linux", "Burp Suite", "Metasploit",
+    "Splunk", "Snort", "OSQuery", "Nessus", "CyberChef"
+  ],
+  "resources": [
+    "<a href='https://tryhackme.com/' target='_blank'>TryHackMe: Beginner to Advanced Cyber Labs</a>",
+    "<a href='https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst' target='_blank'>Coursera: IBM Cybersecurity Analyst Certification</a>",
+    "<a href='https://www.udemy.com/course/the-complete-cyber-security-course/' target='_blank'>Udemy: The Complete Cyber Security Course by Nathan House</a>",
+    "<a href='https://www.youtube.com/c/JohnHammond010' target='_blank'>YouTube: John Hammond</a>",
+    "<a href='https://www.youtube.com/c/NetworkChuck' target='_blank'>YouTube: NetworkChuck</a>",
+    "<a href='https://www.youtube.com/c/TheCyberMentor' target='_blank'>YouTube: The Cyber Mentor</a>",
+    "<a href='https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470' target='_blank'>Book: The Web Application Hacker’s Handbook by Dafydd Stuttard & Marcus Pinto</a>"
+]
+
+},
+"Cloud Computing": {
+  "description": "Cloud Computing enables on-demand delivery of computing services like servers, storage, databases, networking, software, analytics, and intelligence over the Internet, offering faster innovation and flexible resources.",
+  "roadmap": [
+    "1. Fundamentals:\n   - Understand what cloud computing is\n   - Learn about IaaS, PaaS, SaaS models\n   - Explore cloud deployment models: Public, Private, Hybrid",
+    "2. Core Concepts:\n   - Virtualization, Networking, Load Balancing\n   - Data Storage (Block, Object, File), Compute Instances",
+    "3. Leading Platforms:\n   - AWS, Microsoft Azure, Google Cloud Platform (GCP)\n   - Choose one and get hands-on experience",
+    "4. Services to Focus:\n   - Compute (EC2, App Engine)\n   - Storage (S3, Blob Storage)\n   - Databases (RDS, Firestore)\n   - IAM (Identity and Access Management)",
+    "5. DevOps & Automation:\n   - Learn CI/CD pipelines, Infrastructure as Code (IaC) with Terraform\n   - Understand containerization using Docker and orchestration using Kubernetes",
+    "6. Cloud Security:\n   - Learn about cloud-specific security models and practices\n   - Understand shared responsibility model and encryption in the cloud",
+    "7. Certifications:\n   - AWS Certified Solutions Architect\n   - Microsoft Azure Fundamentals (AZ-900)\n   - Google Associate Cloud Engineer",
+    "8. Real-World Projects:\n   - Host a website on S3\n   - Deploy serverless apps with Lambda/Cloud Functions\n   - Set up a CI/CD pipeline using GitHub Actions"
+  ],
+  "skills": [
+    "Networking", "Virtualization", "Linux/Windows Server", "Cloud Architecture",
+    "DevOps", "Security", "CI/CD", "Monitoring", "Automation", "Cost Optimization"
+  ],
+  "tools": [
+    "AWS (EC2, S3, Lambda)", "Azure (App Services, Azure Functions)", "GCP (Compute Engine, Cloud Run)",
+    "Terraform", "Docker", "Kubernetes", "GitHub Actions", "Ansible", "CloudWatch", "CloudTrail"
+  ],
+  "resources":[
+    "<a href='https://aws.amazon.com/training/' target='_blank'>AWS Training and Certification Portal</a>",
+    "<a href='https://www.coursera.org/learn/gcp-fundamentals' target='_blank'>Coursera: Google Cloud Fundamentals: Core Infrastructure</a>",
+    "<a href='https://www.udemy.com/course/aws-certified-solutions-architect-associate/' target='_blank'>Udemy: AWS Certified Solutions Architect by Stephane Maarek</a>",
+    "<a href='https://www.youtube.com/c/Freecodecamp' target='_blank'>YouTube: freeCodeCamp</a>",
+    "<a href='https://www.youtube.com/c/TechWorldwithNana' target='_blank'>YouTube: TechWorld with Nana</a>",
+    "<a href='https://www.amazon.com/Cloud-Computing-Dummies-Computer-Tech/dp/0470768219' target='_blank'>Book: Cloud Computing for Dummies by Judith Hurwitz</a>"
+]
+
+
+},
+
+  "UI/UX": {
+    "description": "UI/UX Design focuses on creating user-centered interfaces that are both functional (UX) and visually appealing (UI). UX (User Experience) involves research and structure, while UI (User Interface) focuses on aesthetics and interaction design.",
+    "roadmap": [
+      "1. Understand Design Fundamentals:\n   - Learn design principles: contrast, alignment, hierarchy, spacing\n   - Color theory, typography, grid systems",
+      "2. Learn UX Design Process:\n   - User research: interviews, surveys, personas\n   - Information architecture, user flow, wireframing",
+      "3. Learn UI Design Tools:\n   - Figma (most recommended), Adobe XD, Sketch\n   - Learn how to design wireframes, mockups, prototypes",
+      "4. Prototyping & Usability Testing:\n   - Build interactive prototypes\n   - Conduct usability testing, get feedback, iterate",
+      "5. Responsive & Accessible Design:\n   - Design for multiple screen sizes\n   - Follow accessibility standards (WCAG), contrast ratios, alt texts",
+      "6. Design Systems & Components:\n   - Build scalable UI with reusable components\n   - Use Atomic Design methodology and design tokens",
+      "7. Collaboration with Developers:\n   - Learn handoff tools (Zeplin, Figma Inspect)\n   - Understand basic HTML/CSS for communication",
+      "8. Portfolio Projects:\n   - Redesign a mobile app or website\n   - Create a full case study: problem, solution, process, result"
+    ],
+    "skills": [
+      "User Research", "Wireframing", "Prototyping", "UI Design", "UX Writing",
+      "Visual Hierarchy", "Accessibility", "Interaction Design", "Design Thinking"
+    ],
+    "tools": [
+      "Figma", "Adobe XD", "Sketch", "InVision", "Zeplin",
+      "Miro", "Notion", "Whimsical", "FigJam", "Google Forms (UX research)"
+    ],
+    "resources":[
+    "<a href='https://www.coursera.org/specializations/ui-ux-design' target='_blank'>Coursera: UI/UX Design Specialization by CalArts</a>",
+    "<a href='https://www.coursera.org/professional-certificates/google-ux-design' target='_blank'>Google UX Design Certificate (Coursera)</a>",
+    "<a href='https://www.youtube.com/c/AJSmart' target='_blank'>YouTube: AJ&Smart</a>",
+    "<a href='https://www.youtube.com/c/DesignCourse' target='_blank'>YouTube: DesignCourse</a>",
+    "<a href='https://www.youtube.com/c/FluxAcademy' target='_blank'>YouTube: Flux Academy</a>",
+    "<a href='https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321965515' target='_blank'>Book: Don’t Make Me Think by Steve Krug</a>",
+    "<a href='https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654' target='_blank'>Book: The Design of Everyday Things by Don Norman</a>",
+    "<a href='https://uxplanet.org/' target='_blank'>Website: UX Planet</a>",
+    "<a href='https://uxdesign.cc/' target='_blank'>Website: UX Collective (Medium)</a>"
+]
+
+
+  },
+  "IoT": {
+    "description": "Internet of Things (IoT) refers to a network of interconnected devices that collect and exchange data via the internet. These devices can range from sensors and appliances to vehicles and industrial machines, enabling automation and real-time insights.",
+    "roadmap": [
+      "1. Learn the Basics:\n   - Understand what IoT is and how it works\n   - Learn about sensors, actuators, and microcontrollers",
+      "2. Electronics & Embedded Systems:\n   - Learn about circuits, GPIOs, and basic electronics\n   - Practice using Arduino and Raspberry Pi",
+      "3. Programming Skills:\n   - Learn C/C++ for microcontrollers\n   - Learn Python for Raspberry Pi and data processing",
+      "4. Communication Protocols:\n   - Understand MQTT, HTTP, CoAP, Bluetooth, Zigbee, LoRa\n   - Learn about Wi-Fi, GSM, and LPWAN connectivity",
+      "5. IoT Architecture & Cloud Integration:\n   - Learn about IoT platforms: AWS IoT, Google Cloud IoT, Azure IoT\n   - Integrate devices with the cloud for data storage and analysis",
+      "6. Data Handling & Security:\n   - Collect, process, and visualize sensor data\n   - Understand encryption, authentication, and secure communication",
+      "7. Real-Time Applications:\n   - Build smart home systems, industrial automation, or wearable devices\n   - Work on predictive maintenance or remote monitoring",
+      "8. Final Projects:\n   - Smart irrigation system\n   - Home automation dashboard\n   - Energy monitoring system using sensors and cloud"
+    ],
+    "skills": [
+      "Embedded Programming", "Circuit Design", "Sensor Integration", "IoT Protocols",
+      "Cloud Integration", "Data Collection", "Security", "Automation", "Prototyping"
+    ],
+    "tools": [
+      "Arduino IDE", "Raspberry Pi OS", "ESP8266/ESP32", "Node-RED",
+      "MQTT Broker (Mosquitto)", "AWS IoT Core", "Google Firebase", 
+      "ThingSpeak", "Blynk", "Fritzing"
+    ],
+    "resources":[
+    "<a href='https://www.coursera.org/learn/iot' target='_blank'>Coursera: Introduction to IoT by University of California, Irvine</a>",
+    "<a href='https://www.udemy.com/course/iot-internet-of-things-bootcamp/' target='_blank'>Udemy: IoT Bootcamp - Arduino & Raspberry Pi</a>",
+    "<a href='https://www.youtube.com/c/AndreasSpiess' target='_blank'>YouTube: Andreas Spiess</a>",
+    "<a href='https://www.youtube.com/c/techiesms' target='_blank'>YouTube: Techiesms</a>",
+    "<a href='https://www.youtube.com/c/greatscottlab' target='_blank'>YouTube: GreatScott!</a>",
+    "<a href='https://www.amazon.com/Internet-Things-Beginners-Anand-Tamboli/dp/1949991658' target='_blank'>Book: Internet of Things (IoT) for Beginners by Anand Tamboli</a>",
+    "<a href='https://thingsboard.io/' target='_blank'>IoT Platform: ThingsBoard</a>",
+    "<a href='https://blynk.io/' target='_blank'>IoT Platform: Blynk</a>",
+    "<a href='https://thinger.io/' target='_blank'>IoT Platform: Thinger.io</a>"
+]
+
+
+  },
+  "Robotics": {
+    "description": "Robotics is an interdisciplinary field that involves the design, construction, programming, and operation of robots. It combines mechanical engineering, electrical engineering, computer science, and control systems to create machines that can perform tasks autonomously or semi-autonomously.",
+    "roadmap": [
+      "1. Fundamentals:\n   - Understand what robotics is\n   - Study basic physics, electronics, and mechanics",
+      "2. Mechanical Design:\n   - Learn CAD tools (AutoCAD, SolidWorks)\n   - Understand gears, joints, motors, actuators",
+      "3. Electronics & Microcontrollers:\n   - Work with Arduino, Raspberry Pi\n   - Learn sensor interfacing, motor drivers, power supplies",
+      "4. Programming Skills:\n   - Learn Python, C/C++\n   - Explore embedded systems programming",
+      "5. Kinematics & Control Systems:\n   - Learn forward/inverse kinematics\n   - PID control, trajectory planning, motion control",
+      "6. Perception & Navigation:\n   - Use computer vision with OpenCV\n   - Learn SLAM, obstacle detection, path planning",
+      "7. Robot Operating System (ROS):\n   - Understand ROS nodes, topics, services\n   - Simulate robots using Gazebo and Rviz",
+      "8. Projects:\n   - Line following robot\n   - Robotic arm for pick & place\n   - Autonomous rover or drone"
+    ],
+    "skills": [
+      "Mechanics", "Electronics", "Microcontrollers", "Control Systems",
+      "Embedded Programming", "Computer Vision", "Path Planning", 
+      "ROS (Robot Operating System)", "Simulation", "Prototyping"
+    ],
+    "tools": [
+      "Arduino", "Raspberry Pi", "ROS", "Gazebo", "OpenCV",
+      "SolidWorks", "AutoCAD", "MATLAB", "TinkerCAD", "Simulink"
+    ],
+    "resources":[
+    "<a href='https://www.coursera.org/specializations/modernrobotics' target='_blank'>Coursera: Modern Robotics by Northwestern University</a>",
+    "<a href='https://www.udemy.com/course/ros-essentials/' target='_blank'>Udemy: ROS for Beginners</a>",
+    "<a href='https://www.udemy.com/course/robotics-bootcamp-learn-robotics-from-scratch/' target='_blank'>Udemy: Robotics Bootcamp</a>",
+    "<a href='https://www.youtube.com/c/jamesbruton' target='_blank'>YouTube: James Bruton</a>",
+    "<a href='https://www.youtube.com/c/jeremyfielding' target='_blank'>YouTube: Jeremy Fielding</a>",
+    "<a href='https://www.youtube.com/c/OpenRoboticsOrg' target='_blank'>YouTube: Open Robotics</a>",
+    "<a href='https://www.amazon.com/Introduction-Robotics-Mechanics-Control-4th/dp/0133489795' target='_blank'>Book: Introduction to Robotics by John J. Craig</a>",
+    "<a href='https://www.tinkercad.com/' target='_blank'>Simulator: TinkerCAD</a>",
+    "<a href='https://gazebosim.org/' target='_blank'>Simulator: Gazebo</a>",
+    "<a href='https://cyberbotics.com/' target='_blank'>Simulator: Webots</a>"
+]
+
+  },
+
+  "App Development": {
+    "description": "App Development focuses on building functional and user-friendly mobile applications for Android, iOS, or cross-platform environments. Developers must understand platform guidelines, manage state and performance, handle backend integration, and deliver smooth user experiences. Cross-platform tools like Flutter or React Native have become popular for faster deployment across both Android and iOS.",
+    "roadmap": [
+      "1. Understand Mobile Ecosystem:\n   - Learn about Android, iOS, and Cross-Platform development.",
+      "2. Learn Core Programming Languages:\n   - Java/Kotlin for Android, Swift for iOS, Dart for Flutter.",
+      "3. UI/UX Design Principles:\n   - Material Design, Human Interface Guidelines, Responsive UI.",
+      "4. App Architecture:\n   - MVC, MVVM, Clean Architecture, State Management.",
+      "5. Backend Integration:\n   - REST APIs, Firebase, GraphQL, Authentication.",
+      "6. Database Management:\n   - SQLite, Room DB, Realm, Firebase Firestore.",
+      "7. Testing:\n   - Unit Testing, UI Testing (Espresso, XCTest).",
+      "8. Deployment:\n   - Google Play Console, Apple App Store.",
+      "9. Post-Deployment:\n   - Analytics, Crash Reporting, Monetization (ads/in-app purchases)."
+    ],
+    "skills": [
+      "Java", "Kotlin", "Swift", "Dart", "Flutter", "React Native", "Firebase", "REST APIs", "SQLite", "UI/UX"
+    ],
+    "tools": [
+      "Android Studio", "Xcode", "Flutter", "Firebase", "Figma", "Postman", "VS Code", "Git"
+    ],
+   "resources":[
+    "<a href='https://www.udemy.com/course/flutter-bootcamp-with-dart/' target='_blank'>Udemy: The Complete Flutter Development Bootcamp with Dart</a>",
+    "<a href='https://www.coursera.org/specializations/app-development' target='_blank'>Coursera: iOS App Development with Swift Specialization</a>",
+    "<a href='https://www.youtube.com/c/CodeWithChris' target='_blank'>YouTube: CodeWithChris</a>",
+    "<a href='https://www.youtube.com/c/Academind' target='_blank'>YouTube: Academind</a>",
+    "<a href='https://www.youtube.com/c/Fireship' target='_blank'>YouTube: Fireship</a>",
+    "<a href='https://www.bignerdranch.com/books/android-programming-the-big-nerd-ranch-guide/' target='_blank'>Book: Android Programming: The Big Nerd Ranch Guide</a>",
+    "<a href='https://flutter.dev/' target='_blank'>Flutter Docs</a>"
+]
+  },
+  "DevOps": {
+    "description": "DevOps is a methodology that unifies development and operations teams to enable continuous integration, continuous delivery (CI/CD), infrastructure as code (IaC), and rapid software deployment. It emphasizes collaboration, automation, monitoring, and improving the entire software lifecycle — from coding to deployment and maintenance.",
+    "roadmap": [
+      "1. Understand DevOps Culture:\n   - Agile, Lean, Collaboration, Feedback loops.",
+      "2. Version Control:\n   - Git fundamentals, branching strategies, GitHub/GitLab.",
+      "3. Continuous Integration (CI):\n   - Automate builds with Jenkins, GitHub Actions, GitLab CI.",
+      "4. Continuous Delivery/Deployment (CD):\n   - Blue/Green Deployment, Canary Releases.",
+      "5. Configuration Management:\n   - Ansible, Chef, Puppet for automating environments.",
+      "6. Containers:\n   - Docker concepts, images, volumes, networking.",
+      "7. Orchestration:\n   - Kubernetes basics, Helm Charts, StatefulSets.",
+      "8. Infrastructure as Code:\n   - Terraform, AWS CloudFormation.",
+      "9. Monitoring & Logging:\n   - Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)."
+    ],
+    "skills": [
+      "Git", "CI/CD Pipelines", "Jenkins", "Docker", "Kubernetes", "Linux", "Ansible", "Terraform", "Monitoring", "Scripting"
+    ],
+    "tools": [
+      "Git", "Jenkins", "Docker", "Kubernetes", "AWS", "Azure", "Terraform", "Grafana", "ELK Stack", "GitHub Actions"
+    ],
+    "resources":[
+    "<a href='https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/' target='_blank'>Udemy: Docker and Kubernetes: The Complete Guide by Stephen Grider</a>",
+    "<a href='https://www.coursera.org/professional-certificates/devops-and-software-engineering' target='_blank'>Coursera: DevOps and Software Engineering Professional Certificate by IBM</a>",
+    "<a href='https://www.youtube.com/c/TechWorldwithNana' target='_blank'>YouTube: TechWorld with Nana</a>",
+    "<a href='https://www.youtube.com/c/ByteByteGo' target='_blank'>YouTube: ByteByteGo</a>",
+    "<a href='https://itrevolution.com/product/the-devops-handbook/' target='_blank'>Book: The DevOps Handbook by Gene Kim</a>",
+    "<a href='https://www.jenkins.io/doc/' target='_blank'>Jenkins Docs</a>"
+
+]
+  },
+  "Blockchain": {
+    "description": "Blockchain is a distributed and decentralized digital ledger that ensures secure, transparent, and tamper-proof transactions. It's the foundation for cryptocurrencies like Bitcoin and Ethereum, as well as smart contracts, decentralized finance (DeFi), NFTs, and more. Blockchain developers create secure protocols, write smart contracts, and build decentralized applications (dApps).",
+    "roadmap": [
+      "1. Learn Blockchain Basics:\n   - Distributed ledgers, hash functions, blocks, mining.",
+      "2. Cryptographic Fundamentals:\n   - Public/Private keys, Digital signatures, Encryption.",
+      "3. Ethereum Ecosystem:\n   - Ethereum Virtual Machine (EVM), Gas, Accounts.",
+      "4. Smart Contracts:\n   - Learn Solidity, write reusable contracts.",
+      "5. dApp Development:\n   - Integrate smart contracts using Web3.js, Ethers.js.",
+      "6. Test & Deploy:\n   - Use Truffle, Hardhat, Ganache, Metamask.",
+      "7. Advanced Topics:\n   - Consensus Algorithms (PoW, PoS), Layer-2 (Polygon), DAO, DeFi, NFT standards.",
+      "8. Private Blockchains:\n   - Hyperledger Fabric, R3 Corda."
+    ],
+    "skills": [
+      "Solidity", "Ethereum", "Web3.js", "Smart Contracts", "Cryptography", "EVM", "Decentralized Systems", "Truffle", "Hardhat"
+    ],
+    "tools": [
+      "Remix IDE", "Ganache", "Metamask", "Truffle", "Hardhat", "Infura", "Ethers.js", "IPFS"
+    ],
+    "resources":[
+    "<a href='https://cryptozombies.io/' target='_blank'>CryptoZombies: Interactive Solidity Game</a>",
+    "<a href='https://www.coursera.org/specializations/blockchain' target='_blank'>Coursera: Blockchain Specialization by University at Buffalo</a>",
+    "<a href='https://www.youtube.com/c/DappUniversity' target='_blank'>YouTube: Dapp University</a>",
+    "<a href='https://www.youtube.com/c/SimplyExplained' target='_blank'>YouTube: Simply Explained</a>",
+    "<a href='https://www.youtube.com/c/MoralisWeb3' target='_blank'>YouTube: Moralis Web3</a>",
+    "<a href='https://github.com/ethereumbook/ethereumbook' target='_blank'>Book: Mastering Ethereum by Andreas Antonopoulos</a>",
+    "<a href='https://ethereum.org/' target='_blank'>Docs: ethereum.org</a>",
+    "<a href='https://docs.soliditylang.org/' target='_blank'>Docs: soliditylang.org</a>"
+]
+
+
+  },
+  "AR/VR & Metaverse": {
+    "description": "AR/VR & Metaverse development focuses on immersive experiences using virtual or augmented environments. Augmented Reality (AR) overlays digital content onto the real world, while Virtual Reality (VR) creates fully immersive digital environments. These technologies power industries like gaming, education, real estate, and remote collaboration. The Metaverse combines these concepts into shared, persistent virtual spaces.",
+    "roadmap": [
+      "1. Understand AR/VR Fundamentals:\n   - Difference between AR, VR, XR, Metaverse, Use-cases.",
+      "2. Learn 3D Design Tools:\n   - Blender for modeling, Unity & Unreal Engine for development.",
+      "3. Programming:\n   - C#, Unity scripting, Blueprints, or C++ for Unreal.",
+      "4. AR Frameworks:\n   - ARCore (Android), ARKit (iOS), Vuforia SDK.",
+      "5. VR Hardware & SDKs:\n   - Oculus Quest SDK, SteamVR.",
+      "6. Cross-Platform Development:\n   - Unity XR, WebXR for browser-based AR/VR.",
+      "7. Real-Time Interaction:\n   - Physics, hand tracking, voice input.",
+      "8. Metaverse Platforms:\n   - Decentraland, Sandbox, Horizon Worlds.",
+      "9. Publish Projects:\n   - Web deployment (WebXR), mobile apps, Meta Store."
+    ],
+    "skills": [
+      "3D Modeling", "Unity", "Unreal Engine", "C#", "ARCore", "ARKit", "WebXR", "XR Interaction Toolkit", "Game Design"
+    ],
+    "tools": [
+      "Unity", "Unreal Engine", "Blender", "A-Frame", "Three.js", "Oculus SDK", "Vuforia", "WebXR API"
+    ],
+    "resources":[
+    "<a href='https://learn.unity.com/paths/ar-vr-development' target='_blank'>Unity Learn: AR/VR Courses</a>",
+    "<a href='https://www.coursera.org/professional-certificates/meta-ar-developer' target='_blank'>Coursera: Meta AR Developer Professional Certificate</a>",
+    "<a href='https://www.youtube.com/user/Brackeys' target='_blank'>YouTube: Brackeys</a>",
+    "<a href='https://www.youtube.com/c/JustinPBarnett' target='_blank'>YouTube: Justin P Barnett</a>",
+    "<a href='https://www.youtube.com/c/FusedVR' target='_blank'>YouTube: FusedVR</a>",
+    "<a href='https://www.youtube.com/c/XRBootcamp' target='_blank'>YouTube: XR Bootcamp</a>",
+    "<a href='https://www.amazon.com/Augmented-Human-How-Technology-Capabilities/dp/1491928325' target='_blank'>Book: Augmented Human by Helen Papagiannis</a>",
+    "<a href='https://developer.oculus.com/' target='_blank'>Docs: developer.oculus.com</a>",
+    "<a href='https://developers.google.com/ar' target='_blank'>Docs: developers.google.com/ar</a>",
+    "<a href='https://developer.apple.com/augmented-reality/' target='_blank'>Docs: developer.apple.com/arkit</a>"
+]
+
+
+  }
+}
